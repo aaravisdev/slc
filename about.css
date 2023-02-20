@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(217, 217, 217);
+}
+.container {
+	margin: 0 auto;
+	max-width: 800px;
+	padding: 30px;
+	text-align: center;
+}
+
+img {
+	border-radius: 50%;
+	height: 200px;
+	width: 200px;
+}
+
+h1 {
+	font-size: 36px;
+	margin-top: 20px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.5;
+	margin-top: 20px;
+}
